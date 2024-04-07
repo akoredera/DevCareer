@@ -22,6 +22,21 @@ h1 {
   padding: auto;
   text-align: center;
 }
+ul li {
+list-style-type: none;
+}
+
+#skills, header {
+  display: block;
+}
+
+#skills ul li {
+  display: inline-block;
+  padding: 5px;
+}
+
+
+
 
 ul li {
   text-decoration: none;
